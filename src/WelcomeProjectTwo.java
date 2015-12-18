@@ -5,7 +5,7 @@ import java.io.IOException;
  */
 public class WelcomeProjectTwo {
     public static void main (String args[]){
-        System.out.println("ProjecTwo started!");
+        System.out.println("ProjecTwo started!xxxxx");
         IDGenerator id1 = new IDGenerator();
         IDGenerator id2 = new IDGenerator();
         System.out.println("--");
