@@ -1,3 +1,5 @@
+import java.io.IOException;
+
 /**
  * Created by E on 17/12/2015.
  */
@@ -11,6 +13,13 @@ public class WelcomeProjectTwo {
             System.out.println("id1=" + id1.getNewID());
             System.out.println("id2=" + id2.getNewID());
         }
+        try{
+            IOException ioe;
+        }
+        finally {
+
+        }
+
 
     }
 }
